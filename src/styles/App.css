@@ -1,0 +1,12 @@
+.App {
+    margin: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  .error-msg {
+    text-align: center;
+    border: 2px solid #d9534f;
+    background-color: rgba(216, 84, 79, 0.59);
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+}

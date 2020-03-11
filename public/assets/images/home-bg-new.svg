@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 578.7 578.7" style="enable-background:new 0 0 578.7 578.7;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:2.5;}
+</style>
+<path class="st0" d="M289.2,1.4v576 M1.2,289.4h576"/>
+<g>
+	<g id="curves">
+		<path class="st0" d="M161.2,12.4c-21.3,256-21.3,297.7,0,553.7"/>
+		<path class="st0" d="M33.2,33.4c-42.7,256-42.7,256.7,0,512.7"/>
+	</g>
+</g>
+<g transform="rotate(90,384,384)">
+	<g id="curves_1_">
+		<path class="st0" d="M566.2,161.4c-256-21.3-297.9-21.3-553.9,0"/>
+		<path class="st0" d="M545.7,33.4c-256-42.7-257-42.7-513,0"/>
+		<path class="st0" d="M-94.8-94.6"/>
+		<path class="st0" d="M673.2-94.6"/>
+	</g>
+</g>
+<g transform="rotate(180,384,384)">
+	<g id="curves_2_">
+		<path class="st0" d="M417.2,566.1c21.3-256,21.3-297.1,0-553.1"/>
+		<path class="st0" d="M545.2,545.4c42.7-256,42.7-256.7,0-512.7"/>
+	</g>
+</g>
+<g transform="rotate(270,384,384)">
+	<g id="curves_3_">
+		<path class="st0" d="M12.6,417.4c256,21.3,297.2,21.3,553.2,0"/>
+		<path class="st0" d="M32.7,545.4c256,42.7,256.9,42.7,512.9,0"/>
+	</g>
+</g>
+</svg>
